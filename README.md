@@ -1,2 +1,1 @@
-# gdriveZip
-C++, Bash, Snap
+# Google drive zip-file downloader
